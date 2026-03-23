@@ -1,1 +1,18 @@
-![Snake animation](https://github.com/rootmytoaster/rootmytoaster/blob/output/github-contribution-grid-snake.svg)
+```
+package main
+
+Type Debug struct {
+     Name string
+     Interests []string
+     About string
+}
+
+func main() {
+     haxor := &Debug{
+           Name: "Debug",
+           Interests: []string{"CyberSec", "Network Programming & Automation", "Network Security", "Wireless Security", "IoT", "Phreaking", "Hardware", "Graphics Programming & Demo Scene"
+           About: "/dev/null",
+      }
+     _ = haxor
+}
+```
