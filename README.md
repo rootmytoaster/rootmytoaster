@@ -16,8 +16,10 @@ func main() {
      _ = haxor
 }
 ```
-While you were sharpening your sword -
-Wanna know how I was prepared for today?
-I learned. I know your language. 
-Your traditions. Your beliefs. 
+While you were sharpening your sword 
+
+I learned. I know your language.
+
+Your traditions. Your beliefs.
+
 Which village to tame and which to burn.
